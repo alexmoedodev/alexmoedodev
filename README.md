@@ -11,7 +11,7 @@
 - **Backend:** Node.js, Prisma  
 - **Banco de dados:** PostgreSQL  
 - **Outros:** Git, REST API
-- 
+
 ---
 
 ## 🧠 Linguagem favorita: **TypeScript**
